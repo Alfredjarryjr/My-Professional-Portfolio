@@ -24,7 +24,7 @@ nav{
     align-items: center;
     position: fixed;
     width: 100%;
-    z-index: 1000;
+    
     height: 50px;
     background-color: rgba(209, 235, 236, 0.8); 
 }
@@ -111,7 +111,7 @@ nav a[href="my-name-nav"] {
     justify-content: center;
     align-items: center;
     column-gap: 1em;
-    padding-top: 40px;
+    padding-top: 40.01px;
 }
 
 .abt{
