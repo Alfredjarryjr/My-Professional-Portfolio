@@ -24,7 +24,7 @@ nav{
     align-items: center;
     position: fixed;
     width: 100%;
-    
+    z-index: 1000;
     height: 50px;
     background-color: rgba(209, 235, 236, 0.8); 
 }
